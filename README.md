@@ -23,7 +23,11 @@ To run the code:
 2. Copy the provided code into a Python script or notebook file.
 3. Run the script or execute the cells in the notebook.
 
-Clone this repository to your local machine:https://github.com/MuhammadAliAhson/KNN-Digit-Recognization-Dataset
+Clone this repository to your local machine:
+https://github.com/MuhammadAliAhson/KNN-Digit-Recognization-Dataset
+Clone KNN from the Scratch repository to your local machine:
+[https://github.com/MuhammadAliAhson/KNN-Digit-Recognization-Dataset](https://github.com/MuhammadAliAhson/KNN-in-Python-from-scratch)
+
 ---
 
 This README file provides an overview of the code functionality, its components, and instructions for running it. It helps users understand the purpose of the code and how to use it effectively.
